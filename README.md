@@ -1,0 +1,1 @@
+Extremely basic UE4 project. Based on GameDev.tv course.<br>C++, Unreal Engine 4.<br><br>Points of interest: Basically nothing, it's just simple actors/pawns/widgets with barely anything to them, but I wanted to keep it here just because. We all start somehwere I guess?
